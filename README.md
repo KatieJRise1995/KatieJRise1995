@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KatieJRise1995
+- 👋 Hi, I’m @KatieJRise1995! Or, Katie S. Johnston
 - 👀 I’m interested in ... Web Development! Mobile Development! Software Development! Database Management! Game Development! Everything!
-- 🌱 I’m currently learning ... ReactJS, MongoDB, JSON and APIs @MATC
+- 🌱 I’m currently learning ... React Native, Gatsby, GraphQL and Contentful @MATC
 - 💞️ I’m looking to collaborate on ... whatever to help out :) 
 - 📫 How to reach me ... LinkedIn @https://www.linkedin.com/in/katiejrise1995 and GitLab @https://gitlab.com/katiejrise1995
 
